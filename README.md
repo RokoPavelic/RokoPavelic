@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roko</h1>
 <h3 align="center">A passionate frontend developer working in React</h3>
 
-- 🌱 I’m currently working with **React.JS Next.JS** and **Redux**
+- 🌱 I’m currently working with **React.JS TypeScript** and **Redux**
 
 - 📫 How to reach me **rokoprivatno@gmail.com**
 
